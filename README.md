@@ -2,7 +2,7 @@
 Python
 
 # Introduction
-The project can detect the water flood.
+The project detects the water flood.
 
 # Project 
 
