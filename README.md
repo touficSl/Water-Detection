@@ -1,5 +1,7 @@
 # Water Detection System
-Python
+
+# Language Used
+- Python
 
 # Introduction
 The project detects the water flood.
